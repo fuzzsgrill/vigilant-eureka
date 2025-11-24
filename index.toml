@@ -56,6 +56,11 @@ hash = "fe04f0d6db074548db155c4863bd812b40b95dc3a3bc041d2f25d244674cdd59"
 metafile = true
 
 [[files]]
+file = "mods/ct-overhaul-village.pw.toml"
+hash = "9273e57603a612cc5c7125b60d4e761c179c0fcede84b065e70c1407fb337767"
+metafile = true
+
+[[files]]
 file = "mods/double-doors.pw.toml"
 hash = "2c70a5c7fe3645b0e297fef8b9b091666e96c0b362d984918ed22df94464f2f0"
 metafile = true
@@ -161,6 +166,11 @@ hash = "56336dfd0aadd47954e75c387a031af1b832b31f8795acd639f27dfede3d6f9e"
 metafile = true
 
 [[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "251f87892329f54add949ca4291a3676f6af1f741c2462477fa8f21c0b00fa40"
+metafile = true
+
+[[files]]
 file = "mods/magnum-torch.pw.toml"
 hash = "54770490cbf049702e0a4b9ca4f480744d7196c46f28a83b7288b37d7c9299bb"
 metafile = true
@@ -168,6 +178,21 @@ metafile = true
 [[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "2b5ed111985f5984dd530c165da227acdefe74f0578b16da05525ef221306284"
+metafile = true
+
+[[files]]
+file = "mods/moogs-structure-lib.pw.toml"
+hash = "4a042e0eaa27b341b33f2a77464d728544b1ad179270ae0f5c091129f1a6c664"
+metafile = true
+
+[[files]]
+file = "mods/moogs-voyager-structures.pw.toml"
+hash = "5c5a98c63fc8d7882eca391942741727f7c51c87fa5f48f6f91cebbd1d6e3e0f"
+metafile = true
+
+[[files]]
+file = "mods/more-professions.pw.toml"
+hash = "6f8161c8e1c3c27ddd054e57d8c7ad7ba868e0c51ed2ca57dae3311211ac9636"
 metafile = true
 
 [[files]]
@@ -188,6 +213,11 @@ metafile = true
 [[files]]
 file = "mods/polymer.pw.toml"
 hash = "22a83a04b4df87ab4bbea18228c3cc695551610c66cc79ccc315d783d3f7848f"
+metafile = true
+
+[[files]]
+file = "mods/promenade.pw.toml"
+hash = "4545297ccf42ef412a1b258a894b4e4e6f936bb67f5b3e7252706d7d3439ae20"
 metafile = true
 
 [[files]]
