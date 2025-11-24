@@ -1,0 +1,13 @@
+name = "Graves"
+filename = "ketket-graves-1.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bYcfmIoG/versions/fLr3GjZi/ketket-graves-1.4.jar"
+hash-format = "sha512"
+hash = "6295ee9dabbbd70498a9426fd971a42517faeffc8e3c44c0d6f145aff47ca16fd59b19be3ce4f9658a9eb1e9836a46ad4d73d2b0dce7f319532b0217e77716b2"
+
+[update]
+[update.modrinth]
+mod-id = "bYcfmIoG"
+version = "fLr3GjZi"

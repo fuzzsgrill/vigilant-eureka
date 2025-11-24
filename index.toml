@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/additional-structures.pw.toml"
+hash = "92d14d6894accfa0235501625b7170ec9414131e911696b77da7d7d874b147e9"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "f34fa12fe7701cf0776fef1a1f1e2e3c7227f53302b3d87b7ff307f0446a68d2"
 metafile = true
@@ -28,6 +33,16 @@ metafile = true
 [[files]]
 file = "mods/comforts.pw.toml"
 hash = "fc021c749f2049fda8ab1aa8b21212430e0edff0abeaac33b9b9d0d3c29a2be4"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns.pw.toml"
+hash = "e9c66a831545c31e1bd5f898974222a7e04e548018dda0a4db0da7c6997c8017"
+metafile = true
+
+[[files]]
+file = "mods/end-expansion_.pw.toml"
+hash = "f9316f9fd1d563c93938b1f99e5344ac006713fbefb2c7bb095f306fdb1569e2"
 metafile = true
 
 [[files]]
@@ -71,6 +86,16 @@ hash = "a077e0482f50add9ef20e962a7939aa678583cb3f354fb6b6124219badafdd4d"
 metafile = true
 
 [[files]]
+file = "mods/japanese-temple.pw.toml"
+hash = "e7e1eead7001e070fbdb0010c23f09cc522575730a9e98bbcf813f5e03dbf64a"
+metafile = true
+
+[[files]]
+file = "mods/ketket-graves.pw.toml"
+hash = "fcac663c9f33e937f8d4d5f1ff3b7f758d75c097b30b27fdebb7b6d23dda7d16"
+metafile = true
+
+[[files]]
 file = "mods/lava-alert.pw.toml"
 hash = "56336dfd0aadd47954e75c387a031af1b832b31f8795acd639f27dfede3d6f9e"
 metafile = true
@@ -78,6 +103,16 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "958d770c8024a7c901315c786f6060554b5583ae302068526766e42c31b5f604"
+metafile = true
+
+[[files]]
+file = "mods/polyfactory.pw.toml"
+hash = "caa1f4bc1ff312209c02870de83a765fc5d67c63b96777ee2de9402ab8a982ec"
+metafile = true
+
+[[files]]
+file = "mods/polymer.pw.toml"
+hash = "22a83a04b4df87ab4bbea18228c3cc695551610c66cc79ccc315d783d3f7848f"
 metafile = true
 
 [[files]]

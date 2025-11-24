@@ -1,0 +1,13 @@
+name = "Japanese Temple - Structure"
+filename = "japanese-temple-1.0_1.21.10-comp.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zNxOo96L/versions/Qsvvd62J/japanese-temple-1.0_1.21.10-comp.jar"
+hash-format = "sha512"
+hash = "74761cee942b97533dda10c226751a4df5507cb128059d64e760d78623f39793cd94bf75dd7cce9b48f4ad95628efcc909124604d12f33404ce5022b37705bc8"
+
+[update]
+[update.modrinth]
+mod-id = "zNxOo96L"
+version = "Qsvvd62J"
