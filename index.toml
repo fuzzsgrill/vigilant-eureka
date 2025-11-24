@@ -106,6 +106,16 @@ hash = "d74f72f3bf13c4ef7d60b6e2defecd3c7af77ed9be7764cf1ed10ea1fd707a1f"
 metafile = true
 
 [[files]]
+file = "mods/fpsdisplay.pw.toml"
+hash = "33b7eda2ae7035290b9a93e807e3e1cd23f0037b52e735c9fe2d4c08985ea251"
+metafile = true
+
+[[files]]
+file = "mods/gamingbarns-morphs.pw.toml"
+hash = "5c0a219ff275beac05a932f56a32c90dd1137991ba3c8b0ce1b02f3f4e6d3289"
+metafile = true
+
+[[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "9a3983cddca92765bed13fb4637be8c63a824bb0d3eb3d1c8ef1105d46d4b84d"
 metafile = true
@@ -161,6 +171,11 @@ hash = "2b5ed111985f5984dd530c165da227acdefe74f0578b16da05525ef221306284"
 metafile = true
 
 [[files]]
+file = "mods/morestackable.pw.toml"
+hash = "a939ac52f7227ca12bfef31829e757f303d33bf28737630e19121db8193b9998"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "958d770c8024a7c901315c786f6060554b5583ae302068526766e42c31b5f604"
 metafile = true
@@ -201,8 +216,18 @@ hash = "279ea1bb4b776be9176fe34416e2132e37abfce4483def54177091cc0f2faade"
 metafile = true
 
 [[files]]
+file = "mods/talentium.pw.toml"
+hash = "0e8c606e8b9c616f51299d7760046265c231a6bfc69ec6b9b3b6a42294c4de1c"
+metafile = true
+
+[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "73b96f5d0345bff977a9c69524bedf4805c7070bfa0ba65329dd166b891e64bb"
+metafile = true
+
+[[files]]
+file = "mods/toms-mobs.pw.toml"
+hash = "5ecd0930532cf31e4199108b7a9d843c87f66e1353a4ffcbd56ccca6cc7962fb"
 metafile = true
 
 [[files]]

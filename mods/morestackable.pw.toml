@@ -1,0 +1,13 @@
+name = "moreStackable"
+filename = "morestackable-0.7.0-1.21+.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/ndWsqG7l/versions/u4e6blrj/morestackable-0.7.0-1.21%2B.jar"
+hash-format = "sha512"
+hash = "444e4a3fcc90d41ea4e22a09649f719ced2a52a00d6b5bebb764a430a9a5af698fdf65ef1cf4fa5e949b8a2c84099cbbb891ad7b1bf2c4b75b0e25e6f23bb52d"
+
+[update]
+[update.modrinth]
+mod-id = "ndWsqG7l"
+version = "u4e6blrj"

@@ -1,0 +1,13 @@
+name = "Talentium"
+filename = "talentium-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/a23o1xmu/versions/8YqxFY5D/talentium-1.0.4.jar"
+hash-format = "sha512"
+hash = "d1c5346bc86d4b1718bbbc965322a55b613264bed738ad94c2f3d3c3535db98d2599d3cd50ed9f304f5b18d49169a13aa738a6028680a0ec331cbe080ebd07bc"
+
+[update]
+[update.modrinth]
+mod-id = "a23o1xmu"
+version = "8YqxFY5D"
