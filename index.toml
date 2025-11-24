@@ -6,8 +6,28 @@ hash = "f34fa12fe7701cf0776fef1a1f1e2e3c7227f53302b3d87b7ff307f0446a68d2"
 metafile = true
 
 [[files]]
+file = "mods/betterf3.pw.toml"
+hash = "59658f3b9d3b86b24440008fd2031c53d538cbb35e84524bcdbc67f0de7ea251"
+metafile = true
+
+[[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "5548560fe3c688df9ace426a565671a86d1c7b5dc766f4ccfdd961835603b07a"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "717d8ac591dba59be4767a179e1359747561e54ccfcac42161fd6bf54339a78b"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "3d24d58b2caf4fd73d76b2d734a1d06490994d5d38177376e6f5d8d9f8fb87e0"
+metafile = true
+
+[[files]]
+file = "mods/comforts.pw.toml"
+hash = "fc021c749f2049fda8ab1aa8b21212430e0edff0abeaac33b9b9d0d3c29a2be4"
 metafile = true
 
 [[files]]
@@ -26,13 +46,33 @@ hash = "cbda4f1881cfb9f054395a3db225df4202d1f2e7bd0ed27d803b837fcf728621"
 metafile = true
 
 [[files]]
+file = "mods/fallingtree.pw.toml"
+hash = "cb914cbb6379455b0d20056ed0bb0ae8d315a66966383d0ba0c67d78c187d156"
+metafile = true
+
+[[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "9a3983cddca92765bed13fb4637be8c63a824bb0d3eb3d1c8ef1105d46d4b84d"
 metafile = true
 
 [[files]]
+file = "mods/incendium.pw.toml"
+hash = "c85d73cc859ddcaab3cf7bf11c5659741f3cca82b5df4244fa319eb4c29eaa74"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "4ed061d122cb39f34ed730984c7bcf03437250f24a21975203bb4598d7d86a14"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "a077e0482f50add9ef20e962a7939aa678583cb3f354fb6b6124219badafdd4d"
+metafile = true
+
+[[files]]
+file = "mods/lava-alert.pw.toml"
+hash = "56336dfd0aadd47954e75c387a031af1b832b31f8795acd639f27dfede3d6f9e"
 metafile = true
 
 [[files]]
@@ -48,6 +88,16 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "73b96f5d0345bff977a9c69524bedf4805c7070bfa0ba65329dd166b891e64bb"
+metafile = true
+
+[[files]]
+file = "mods/villager-names-serilum.pw.toml"
+hash = "8cd9cfc9000cde17d56cebb2c3f19e3a106428c082436d53f72fc478ecc10037"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "7ce652d7744678ed30e9921069502f8a663870a7d06c2c454866ce4857d2ca15"
 metafile = true
 
 [[files]]

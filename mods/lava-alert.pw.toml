@@ -1,0 +1,13 @@
+name = "Lava Alert"
+filename = "lava-alert-1.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QWtBbhMh/versions/vsDnrjXk/lava-alert-1.5.jar"
+hash-format = "sha512"
+hash = "3188ca778f2d63c6c32b02b5359bd4e7f1b8b701cd6bcc12b2a22021dd47591c3ece589a3e228e6b66950a96e70a6d6b3a4c290bf120fcd0a350101301336ce4"
+
+[update]
+[update.modrinth]
+mod-id = "QWtBbhMh"
+version = "vsDnrjXk"
